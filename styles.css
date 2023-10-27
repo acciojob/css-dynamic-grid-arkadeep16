@@ -4,6 +4,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+	grid-gap: 10px 10px;
 }
 .grid-item {
   background-color: lightgray;
